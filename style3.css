@@ -1,0 +1,17 @@
+form {
+margin:0 auto;
+width:300px;
+}
+
+[type=text] {
+  width: 269px;
+  margin-left: 11px;
+  margin-bottom: 46px;
+  padding: 0;
+  border: none;
+  border-bottom: 1ps solid grey;
+
+}
+#username{
+  margin-left: 391px;
+}
