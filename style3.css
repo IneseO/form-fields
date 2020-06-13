@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 form {
 margin:0 auto;
 width:300px;
@@ -43,3 +44,22 @@ position:absolute;
 [type="email"]:focus {
 border: none;
 }
+=======
+form {
+margin:0 auto;
+width:300px;
+}
+
+[type=text] {
+  width: 269px;
+  margin-left: 11px;
+  margin-bottom: 46px;
+  padding: 0;
+  border: none;
+  border-bottom: 1ps solid grey;
+
+}
+#username{
+  margin-left: 391px;
+}
+>>>>>>> 296d431e10f03d99a13b79379baf2a54a5874a14
